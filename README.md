@@ -1,4 +1,4 @@
-# dell-optiplex-3090-opencore
+# dell-optiplex-3090mff-opencore
 
 OpenCore for macOS mMonterey (12.2) on Dell OptiPlex 3090 MFF
 

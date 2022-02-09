@@ -9,7 +9,7 @@ OpenCore for macOS mMonterey (12.2) on Dell OptiPlex 3090 MFF
 
 ## Usage
 
-Use `EFI` for installataion and for daily use.
+Use `EFI` for installation and for daily use.
 Use `debug/EFI` for debug.
 
 ## Hardware
@@ -60,5 +60,9 @@ Use `debug/EFI` for debug.
 
 ## Gotchas
 
--   Mostly followed [折腾 7080MFF 黑苹果 OpenCore](https://www.jianshu.com/p/d7cfaae60509) to prepare the EFI for both installation and daily running environment.
--   Modify BIOS to disable CFG Lock and enable DVMT.
+- Mostly followed [折腾 7080MFF 黑苹果 OpenCore](https://www.jianshu.com/p/d7cfaae60509) to prepare the EFI for both installation and daily running environment.
+- Modify BIOS to disable CFG Lock and enable DVMT.
+
+## Updates
+- 2022/02/08 disable FeatureUnlock.kext（It will cause Bluetooth connection problems with Intel ax201）
+- 2022/02/09 add VerbStub and ComboJack (enable headset microphone)

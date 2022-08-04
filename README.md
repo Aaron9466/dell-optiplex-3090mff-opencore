@@ -66,3 +66,4 @@ Use `debug/EFI` for debug.
 ## Updates
 - 2022/02/08 disable FeatureUnlock.kext（It will cause Bluetooth connection problems with Intel ax201）
 - 2022/02/09 add VerbStub and ComboJack (enable headset microphone)
+- 2022/08/04 fix shutdown problem (may reboot when shutdown)

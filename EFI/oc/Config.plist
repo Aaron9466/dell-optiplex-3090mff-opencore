@@ -119,15 +119,15 @@
                     <key>Enabled</key>
                     <true/>
                     <key>Find</key>
-                    <data>FE4EX1BUUw==</data>
+                    <data>X1BUUw==</data>
                     <key>Limit</key>
                     <integer>0</integer>
                     <key>Mask</key>
                     <data></data>
                     <key>OemTableId</key>
-                    <data></data>
+                    <data>AAAAAA==</data>
                     <key>Replace</key>
-                    <data>FE4EWlBUUw==</data>
+                    <data>WlBUUw==</data>
                     <key>ReplaceMask</key>
                     <data></data>
                     <key>Skip</key>
@@ -135,7 +135,7 @@
                     <key>TableLength</key>
                     <integer>0</integer>
                     <key>TableSignature</key>
-                    <data></data>
+                    <data>AAAAAA==</data>
                 </dict>
             </array>
             <key>Quirks</key>

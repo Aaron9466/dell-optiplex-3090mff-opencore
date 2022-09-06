@@ -1,6 +1,6 @@
 # dell-optiplex-3090mff-opencore
 
-OpenCore for macOS mMonterey (12.2) on Dell OptiPlex 3090 MFF
+OpenCore for macOS mMonterey (12.5.1) on Dell OptiPlex 3090 MFF
 
 ## Tutorials
 
@@ -10,7 +10,6 @@ OpenCore for macOS mMonterey (12.2) on Dell OptiPlex 3090 MFF
 ## Usage
 
 Use `EFI` for installation and for daily use.
-Use `debug/EFI` for debug.
 
 ## Hardware
 
@@ -21,17 +20,17 @@ Use `debug/EFI` for debug.
 -   SSD: KINGSTON SNVS500G
 -   Sound: ALC256
 -   Ethernet: Intel I219-LM
--   Wireless / BT: Intel AX201
+-   Wireless / BT: BCM94360CS2
 
 ## Status
 
-### Working (with AX201)
+### Working
 
 -   HWP
 -   Sleep
 -   iGPU with HiDPI
 -   Ethernet
--   WiFi (using AirportItlwm)
+-   WiFi
 -   Bluetooth
 -   Sound
 ## BIOS
@@ -64,6 +63,4 @@ Use `debug/EFI` for debug.
 - Modify BIOS to disable CFG Lock and enable DVMT.
 
 ## Updates
-- 2022/02/08 disable FeatureUnlock.kext（It will cause Bluetooth connection problems with Intel ax201）
-- 2022/02/09 add VerbStub and ComboJack (enable headset microphone)
-- 2022/08/04 fix shutdown problem (may reboot when shutdown)
+- 2022/09/06 upgrade oc to 0.8.4;Adapt the `BCM94360CS2` wireless network card

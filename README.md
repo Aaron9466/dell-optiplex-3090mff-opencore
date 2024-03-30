@@ -10,14 +10,16 @@ OpenCore for macOS sonoma (14.4.1) on Dell OptiPlex 3090 MFF
 
 ## Hardware
 
--   CPU: Intel Comet Lake i5 10500T
--   Chipset: Intel Q470
--   Memory: 8G DDR4 2666 \* 2
--   iGPU: UHD 630
--   SSD: KINGSTON SNVS500G
--   Sound: ALC256
--   Ethernet: Intel I219-LM
--   Wireless / BT: BCM94360CS2
+- CPU: Intel Comet Lake i5 10500T
+- Chipset: Intel Q470
+- Memory: 8G DDR4 2666 \* 2
+- iGPU: UHD 630
+- SSD: KINGSTON SNVS500G
+- Sound: ALC256
+- Ethernet: Intel I219-LM
+- Wireless / BT: BCM94360CS2 
+
+`EFI` for intel Wireless [here](https://github.com/Aaron9466/dell-optiplex-3090mff-opencore/tree/intel_wifi)
 
 ## Status
 

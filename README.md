@@ -71,5 +71,6 @@ enable broadcom wi-fi
 You won't be able to get system updates unless you revert the root patches and enable `SIP`
 
 ## Updates
+- 2024/03/31 fix shutdown problem by using OpenCore acpi patch(_PTS TO ZPTS) and SSDT-SHUTDOWN.aml
 - 2024/03/30 upgrade oc to 0.9.9;support sonoma 14.4.1
 - 2022/09/06 upgrade oc to 0.8.4;Adapt the `BCM94360CS2` wireless network card

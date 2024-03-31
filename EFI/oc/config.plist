@@ -129,7 +129,7 @@
 				<true/>
 				<key>Find</key>
 				<data>
-				X1BUUw==
+				X1BUUwE=
 				</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -138,11 +138,10 @@
 				</data>
 				<key>OemTableId</key>
 				<data>
-				AAAAAA==
 				</data>
 				<key>Replace</key>
 				<data>
-				WlBUUw==
+				WlBUUwE=
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -153,7 +152,6 @@
 				<integer>0</integer>
 				<key>TableSignature</key>
 				<data>
-				AAAAAA==
 				</data>
 			</dict>
 		</array>

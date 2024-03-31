@@ -59,4 +59,5 @@ OpenCore for macOS sonoma (14.4.1) on Dell OptiPlex 3090 MFF
 - Modify BIOS to disable CFG Lock and enable DVMT.
 
 ## Updates
+- 2024/03/31 fix shutdown problem by using OpenCore acpi patch(_PTS TO ZPTS) and SSDT-SHUTDOWN.aml
 - 2024/03/30 upgrade oc to 0.9.9;support sonoma 14.4.1
